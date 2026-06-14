@@ -1,3 +1,20 @@
+---
+tags:
+  - artificial-intelligence
+  - code-optimization
+  - coding-best-practices
+  - coding-principles
+  - llm-limitations
+  - machine-learning
+  - problem-solving
+  - programming/languages/python
+  - simplicity
+  - software-design
+  - software-development
+  - software-development/coding-best-practices
+  - software-development/coding-principles
+---
+
 # Examples
 
 Real-world code examples demonstrating the four principles. Each example shows what LLMs commonly do wrong and how to fix it.

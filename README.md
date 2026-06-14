@@ -1,3 +1,25 @@
+---
+tags:
+  - artificial-intelligence
+  - automation
+  - clean-code
+  - coding-best-practices
+  - coding-ethics
+  - goal-driven-execution
+  - large-language-models
+  - machine-learning
+  - open-source
+  - programming/code-guidelines/clarity
+  - programming/code-guidelines/goal-driven
+  - programming/code-guidelines/simplicity
+  - programming/code-guidelines/surgical-changes
+  - programming/languages
+  - simplicity-first
+  - software-development
+  - technology/automation
+  - testing
+---
+
 # Karpathy-Inspired Claude Code Guidelines
 
 > Check out my new project [Multica](https://github.com/multica-ai/multica) — an open-source platform for running and managing coding agents with reusable skills.
@@ -6,7 +28,7 @@
 
 A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
 
-English | [简体中文](./README.zh.md)
+English | [简体中文](wiki/apps/experimental/andrej-karpathy-skills/README.zh.md)
 
 ## The Problems
 
@@ -127,7 +149,7 @@ curl https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/
 
 ## Using with Cursor
 
-This repository includes a committed Cursor project rule ([`.cursor/rules/karpathy-guidelines.mdc`](.cursor/rules/karpathy-guidelines.mdc)) so the same guidelines apply when you open the project in Cursor. See **[CURSOR.md](CURSOR.md)** for setup, using the rule in other projects, and how this relates to Claude Code.
+This repository includes a committed Cursor project rule ([`.cursor/rules/karpathy-guidelines.mdc`](karpathy-guidelines.mdc)) so the same guidelines apply when you open the project in Cursor. See **[CURSOR.md](CURSOR.md)** for setup, using the rule in other projects, and how this relates to Claude Code.
 
 ## Key Insight
 

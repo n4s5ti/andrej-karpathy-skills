@@ -1,3 +1,19 @@
+---
+tags:
+  - behavioral-guidelines
+  - clean-code
+  - code-review
+  - coding-guidelines
+  - coding/guidelines
+  - goal-driven-execution
+  - linter
+  - programming/best-practices
+  - refactoring
+  - simplicity-first
+  - software-development
+  - testing-strategies
+---
+
 # CLAUDE.md
 
 Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.

@@ -1,3 +1,27 @@
+---
+tags:
+  - artificial-intelligence
+  - business/productivity
+  - code-review
+  - coding-best-practices
+  - concise-code
+  - karpathy-guidelines
+  - llm/coding-pitfalls
+  - machine-learning
+  - minimalism
+  - plugin-installation
+  - precision-modification
+  - programming-principles
+  - programming/languages/python
+  - programming/principles
+  - science/computer-science
+  - software-development
+  - software-development/claude-code
+  - target-driven-execution
+  - technology/artificial-intelligence
+  - technology/software-development
+---
+
 # 受 Karpathy 启发的 Claude Code 指南
 
 > 查看我的新项目 [Multica](https://github.com/multica-ai/multica) —— 一个用于运行和管理编码智能体的开源平台，支持可复用的技能。
@@ -6,7 +30,7 @@
 
 一个单一的 `CLAUDE.md` 文件，用于改善 Claude Code 的行为，源自 [Andrej Karpathy 的观察](https://x.com/karpathy/status/2015883857489522876) 关于 LLM 编码陷阱的总结。
 
-[English](./README.md) | 简体中文
+[English](wiki/apps/experimental/andrej-karpathy-skills/README.md) | 简体中文
 
 ## 问题所在
 
@@ -127,7 +151,7 @@ curl https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/
 
 ## 在 Cursor 中使用
 
-本仓库包含一个已提交的 Cursor 项目规则 ([`.cursor/rules/karpathy-guidelines.mdc`](.cursor/rules/karpathy-guidelines.mdc))，因此在 Cursor 中打开项目时同样适用这些指南。详情请参见 **[CURSOR.md](CURSOR.md)**，包括如何在其他项目中使用该规则，以及它与 Claude Code 的关系。
+本仓库包含一个已提交的 Cursor 项目规则 ([`.cursor/rules/karpathy-guidelines.mdc`](karpathy-guidelines.mdc))，因此在 Cursor 中打开项目时同样适用这些指南。详情请参见 **[CURSOR.md](CURSOR.md)**，包括如何在其他项目中使用该规则，以及它与 Claude Code 的关系。
 
 ## 核心洞察
 
